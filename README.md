@@ -40,7 +40,6 @@ git clone https://github.com/jeniferplacido/PokeAPI.git
 - Digite o nome de um Pokémon no campo de busca e clique no botão "Buscar".
 - Os dados do Pokémon serão exibidos em um cartão na página.
 
-Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
 
 Licença
